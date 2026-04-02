@@ -11,14 +11,23 @@ This project uses multiple pages, GIFs, and a fun "No button escape" trick to gu
 🏃‍♂️ Moving "No" button (can’t click easily 😆)
 🎯 Simple and lightweight (pure HTML, CSS, JS)
 📂 Project Structure
+
 📁 ask-her-out/
+
 │── index.html        # First page (main proposal)
+
 │── no1.html          # First "No" response
+
 │── no2.html          # Second "No" response
+
 │── no3.html          # Final "No" attempt page
+
 │── yes.html          # Success page 🎉
+
 │── style.css         # Styling file
+
 │── script.js         # JS for moving "No" button
+
 🛠️ How It Works
 User lands on index.html
 Clicks:
@@ -27,11 +36,13 @@ No → Moves through multiple persuasive pages
 Final “No” button:
 Starts moving randomly (JavaScript magic)
 Makes it harder to reject 😄
+
 📜 Technologies Used
 HTML5
 CSS3
 JavaScript
 Tenor GIF Embed API
+
 ▶️ How to Run
 
 Just open the project locally:
